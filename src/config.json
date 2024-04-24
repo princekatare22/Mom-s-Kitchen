@@ -1,4 +1,4 @@
 {
-  "apiUrl": "http://localhost:5000/api",
+  "apiUrl": "https://mom-s-kitchen.onrender.com/api",
   "localStorageKey": "tiffin_wale_state"
 }
