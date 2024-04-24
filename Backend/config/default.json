@@ -1,0 +1,4 @@
+{
+  "jwtKey": "someKeyABCD",
+  "mongoDb": "mongodb+srv://princekatare22:princekatare22@cluster0.xygld7h.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+}
