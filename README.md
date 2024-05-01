@@ -26,5 +26,6 @@
     <li>In same directory run command <b>node index.js</b></li>
 <ul>
 
-<b>Github link<b> - https://github.com/princekatare22/Mom-s-Kitchen
-<b>Deployed link<b> - https://moms-kitchen-frontend.vercel.app/
+
+<p><b>Github link<b> - https://github.com/princekatare22/Mom-s-Kitchen</p>
+<p><b>Deployed link<b> - https://moms-kitchen-frontend.vercel.app/</p>
